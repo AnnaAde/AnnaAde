@@ -2,7 +2,7 @@
 
 Hello, I’m Anna Ade (Ah-day). I am a songwriter, artist, and marketing professional.
 
-I like to bake and cook, go on walks in the city or suburbs, and spontaneously drive 45+ minutes for warm cookies, donuts, and/or ramen noodles (and that's on growing up in a city an hour away from everthing except Target and Costco - NYC being an hour away is nice though).
+I like to bake and cook, go on walks in the city or suburbs, and spontaneously drive 45+ minutes for warm cookies, donuts, and/or ramen noodles (and that's on growing up in a place with poor intracity/state transportation infrastructure).
 
 Side note: I like the GitHub default profile picture so I won't be changing it for now. If you want to see my face, check out my link below. No, this is not a trick to get my beacons and website analytics up (although, it would be a good one).
 
