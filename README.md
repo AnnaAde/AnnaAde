@@ -12,7 +12,7 @@ I tell my friends that I have "15 businesses" that I would like to run. I am hal
 
 Here are five of them. I'm waiting for the rest to come to me:
 
-1. App for shopping smarter. (That's all I'm saying for now, I'm not Ben Awading with details).
+1. App for shopping smarter. (That's all I'm saying for now).
 2. Fashion line - starting with pockets that are pockets (not fakes) - because *function* can be and is fashionable.
 3. Organizational fixtures for desks, bedrooms, kitchens because I like my messes to be *organized* messes. Disclaimer: I'm mostly clean and neat with my spaces.
 4. Platform for songwriters to share songs/demos with artists (obviously with intellectual property protections in mind).
@@ -23,5 +23,7 @@ Here are five of them. I'm waiting for the rest to come to me:
 Music production, web development, and visual art.
 
 I’m currently learning HTML, CSS, and D3.js
+
+### More About Me
 
 Learn more about me [here](https://beacons.ai/AnnaAde).
